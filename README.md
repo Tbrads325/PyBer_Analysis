@@ -7,9 +7,9 @@ fares for each city type from 2019-01-01 to 2019-04-28.
 
 ## Results:
 
-![name](url)
+![Challenge_Ride_Overview_by_City_Type.png](https://github.com/Tbrads325/PyBer_Analysis/blob/main/analysis/Challenge_Ride_Overview_by_City_Type.png)
 
-![name](url)
+![Weekly_Summary.png](https://github.com/Tbrads325/PyBer_Analysis/blob/main/analysis/Weekly_Summary.png)
 
 As shown above there are a number of differences between the 3 different city types. Foremost it would appear that drivers who service the rural cities make the most money and the fares are the most expensive in this location. However, 
 this can be explained due to there being fewer drivers than total rides within the rural area. Meanwhile, the urban cities have the lowest avg fare per ride and lowest avg fare per driver which can be explained by the fact that there are far 
