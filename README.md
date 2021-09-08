@@ -18,7 +18,7 @@ fare by city type (and total fare amount) is actually reversed with urban cities
 
 ## Summary:
 
-###Recommendations
+### Recommendations
 
 -First, we need to address the disparity among the urban drivers and total urban rides. The company currently has too many drivers allocated to the urban cities. Either the number of drivers needs to be cut back in these locations or the company
 needs to find a way to raise the number of rides within this city type. 
