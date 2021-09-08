@@ -14,11 +14,14 @@ fares for each city type from 2019-01-01 to 2019-04-28.
 As shown above there are a number of differences between the 3 different city types. Foremost it would appear that drivers who service the rural cities make the most money and the fares are the most expensive in this location. However, 
 this can be explained due to there being fewer drivers than total rides within the rural area. Meanwhile, the urban cities have the lowest avg fare per ride and lowest avg fare per driver which can be explained by the fact that there are far 
 more drivers than rides with the urban area. Similarly, this reasoning can be used to explain the suburban cities which would have a lower avg fare per ride and lower avg fare per driver if the locations were staffed more. However, the weekly 
-fare by city type (and total fare amount) is actually reversed with urban cities contributing the most revenue among the city types and rural cities contributing the least amount.  
+fare by city type (and total fare amount) is actually reversed with urban cities contributing the most revenue among the city types and rural cities contributing the least amount.\
+
+In summary urban cities have the most rides, drivers, and contribued the most in total fares, but have the lowest avg fare per ride and lowest avg fare per driver. Meanwhile, rural cities the least amount of rides, drivers, and contribute the
+smallest amount of fare revenue, but have the largets avg fare per ride and largest avg fare per driver. Finally, suburban cities city between the two other city types in all categories.   
 
 ## Summary:
 
-###Recommendations
+### Recommendations
 
 -First, we need to address the disparity among the urban drivers and total urban rides. The company currently has too many drivers allocated to the urban cities. Either the number of drivers needs to be cut back in these locations or the company
 needs to find a way to raise the number of rides within this city type. 
